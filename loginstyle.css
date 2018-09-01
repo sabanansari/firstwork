@@ -1,0 +1,32 @@
+h1{color:white;
+    text-shadow:2px 2px 7px yellow;
+      }
+h3{color:black;
+   text-shadow:2px 2px 7px red; }
+
+
+.login{
+          background-color:rgba(0,0,0,0.5);
+
+ 
+     color:red;
+     width:300px;
+     height:250px;
+     padding:100px;
+     
+     border: 1px solid grey ;
+     margin:3px; 
+     margin-left:30px;
+     padding-right:100px; 
+  }
+ 
+ input[type="text"]{ padding 200px; }
+         
+ 
+
+  .logo{
+   
+		  margin-left:220px;
+		  padding:10px;
+		  
+		  }

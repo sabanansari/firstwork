@@ -4,9 +4,9 @@
 
 #2.git init :- to initialize or create repository.
 
-#3.git config user.name 'Name' :- to provide username to git.
+#3.git config user.name "Name" :- to provide username to git.
 
-#4.git config user.email 'Email' :- to provide user email to git.
+#4.git config user.email "Email" :- to provide user email to git.
 
 #5.git add . :- to add all file of directory into repository.
 
