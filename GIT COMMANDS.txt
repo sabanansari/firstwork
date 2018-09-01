@@ -1,0 +1,23 @@
+                                                              GIT COMMANDS
+
+#1.git --version :- to know the version of the git.
+
+#2.git init :- to initialize or create repository.
+
+#3.git config user.name 'Name' :- to provide username to git.
+
+#4.git config user.email 'Email' :- to provide user email to git.
+
+#5.git add . :- to add all file of directory into repository.
+
+#6.git status :- to know the status of the directory i.e. if any change have been committed.
+
+#7.git commit -m 'message' :- to commit what changes have been produced in the files.
+
+#8.git remote:- to provide detail that where your code is stored.
+
+#9.git push -u origin branchname :- to push the files in github.
+
+#10. git clone :- to copy files from github.
+
+#11.git log:- It is a very powerful command due to how it allows you to do set based reductions of what commits you want to see.
