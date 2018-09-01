@@ -24,4 +24,4 @@
 
 #12. git clone :- to clone or copy files from github
 
-#13. git stash :-
+#13. git stash :- to see changes
